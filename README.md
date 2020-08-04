@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Aleksey Krotenko 🇷🇺.
+### Hi there 👋, I’m ⚡Aleksey Krotenko⚡.
 
 
 My [Telegram](https://t.me/idv1cher)

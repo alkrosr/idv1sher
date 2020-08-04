@@ -1,7 +1,7 @@
-### Hi there 👋, I’m Aleksey Krotenko.
+### Hi there 👋, I’m Aleksey Krotenko 🇷🇺.
 
 
-
+My [Telegram](https://t.me/idv1cher)
 <!--
 **idv1cher/idv1cher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

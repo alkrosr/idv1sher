@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m ⚡Aleksey Krotenko⚡.
-
+I am a beginner web developer.
 
 My [Telegram](https://t.me/idv1cher)
 <!--

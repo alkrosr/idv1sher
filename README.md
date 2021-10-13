@@ -1,7 +1,7 @@
 ### Hi there 👋, I’m ⚡Aleksey Krotenko⚡.
 I am web developer.
 
-My [Telegram](https://t.me/idv1cher)
+My [Telegram](https://t.me/gull1ver47)
 <!--
 **idv1cher/idv1cher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
